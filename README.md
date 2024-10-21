@@ -1,1 +1,1 @@
-# Image-Lab
+Digital Image Processing Lab
